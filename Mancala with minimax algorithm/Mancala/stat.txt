@@ -1,0 +1,304 @@
+First move by Down player
+Down player's depth = 5
+Up player's depth = 11
+Down player using heuristics 1
+Up player using heuristics 1
+Generating children 0-5
+Down player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 1
+Up player using heuristics 2
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Down player won
+Down player using heuristics 1
+Up player using heuristics 3
+Generating children 0-5
+Down player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 1
+Up player using heuristics 4
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 1
+Up player using heuristics 5
+Generating children 0-5
+Up player won
+Generating children 5-0
+Game tied
+Generating children in random order
+Up player won
+Down player using heuristics 1
+Up player using heuristics 6
+Generating children 0-5
+Up player won
+Generating children 5-0
+Game tied
+Generating children in random order
+Up player won
+Down player using heuristics 2
+Up player using heuristics 1
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 2
+Up player using heuristics 2
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 2
+Up player using heuristics 3
+Generating children 0-5
+Down player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 2
+Up player using heuristics 4
+Generating children 0-5
+Up player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Down player won
+Down player using heuristics 2
+Up player using heuristics 5
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 2
+Up player using heuristics 6
+Generating children 0-5
+Down player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Up player won
+Down player using heuristics 3
+Up player using heuristics 1
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 3
+Up player using heuristics 2
+Generating children 0-5
+Down player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Down player won
+Down player using heuristics 3
+Up player using heuristics 3
+Generating children 0-5
+Down player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Down player won
+Down player using heuristics 3
+Up player using heuristics 4
+Generating children 0-5
+Up player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Down player won
+Down player using heuristics 3
+Up player using heuristics 5
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 3
+Up player using heuristics 6
+Generating children 0-5
+Down player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Up player won
+Down player using heuristics 4
+Up player using heuristics 1
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 4
+Up player using heuristics 2
+Generating children 0-5
+Up player won
+Generating children 5-0
+Game tied
+Generating children in random order
+Up player won
+Down player using heuristics 4
+Up player using heuristics 3
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 4
+Up player using heuristics 4
+Generating children 0-5
+Up player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Up player won
+Down player using heuristics 4
+Up player using heuristics 5
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 4
+Up player using heuristics 6
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 5
+Up player using heuristics 1
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 5
+Up player using heuristics 2
+Generating children 0-5
+Down player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Down player won
+Down player using heuristics 5
+Up player using heuristics 3
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 5
+Up player using heuristics 4
+Generating children 0-5
+Down player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Down player won
+Down player using heuristics 5
+Up player using heuristics 5
+Generating children 0-5
+Up player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Up player won
+Down player using heuristics 5
+Up player using heuristics 6
+Generating children 0-5
+Down player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Down player won
+Down player using heuristics 6
+Up player using heuristics 1
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 6
+Up player using heuristics 2
+Generating children 0-5
+Down player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Up player won
+Down player using heuristics 6
+Up player using heuristics 3
+Generating children 0-5
+Up player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Down player won
+Down player using heuristics 6
+Up player using heuristics 4
+Generating children 0-5
+Down player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Down player won
+Down player using heuristics 6
+Up player using heuristics 5
+Generating children 0-5
+Up player won
+Generating children 5-0
+Down player won
+Generating children in random order
+Up player won
+Down player using heuristics 6
+Up player using heuristics 6
+Generating children 0-5
+Down player won
+Generating children 5-0
+Up player won
+Generating children in random order
+Down player won
+total_games_played 108.0
+Up player won 71.0
+Down player won 34.0
+Tied 3.0
+Up player win percentage 65.74074
+Down player win percentage 31.48148
+Tie percentage count 2.777778
+Heuristic 1 win count 20.0
+Heuristic 2 win count 15.0
+Heuristic 3 win count 22.0
+Heuristic 4 win count 8.0
+Heuristic 5 win count 23.0
+Heuristic 6 win count 17.0

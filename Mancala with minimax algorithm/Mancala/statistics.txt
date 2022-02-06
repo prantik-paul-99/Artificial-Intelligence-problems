@@ -1,0 +1,140 @@
+Down player's depth = 9
+Up player's depth = 7
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Down player's depth = 10
+Up player's depth = 10
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Down player's depth = 8
+Up player's depth = 5
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Down player's depth = 9
+Up player's depth = 4
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Down player's depth = 6
+Up player's depth = 9
+Game tied
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Down player's depth = 3
+Up player's depth = 8
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Down player's depth = 11
+Up player's depth = 6
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Down player's depth = 12
+Up player's depth = 7
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Down player's depth = 10
+Up player's depth = 8
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Down player's depth = 4
+Up player's depth = 5
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Down player's depth = 3
+Up player's depth = 8
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Down player's depth = 9
+Up player's depth = 5
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Down player's depth = 12
+Up player's depth = 4
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Down player's depth = 11
+Up player's depth = 7
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Congrats! Down player won
+Down player's depth = 11
+Up player's depth = 6
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Congrats! Up player won
+Congrats! Down player won
+Down player's depth = 7
+Up player's depth = 11
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Down player's depth = 5
+Up player's depth = 5
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+Congrats! Up player won
+total_games_played 102
+Up player won 56
+Down player won 45
+Tied 1
